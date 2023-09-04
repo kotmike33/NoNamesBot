@@ -1,0 +1,6 @@
+
+*.lst
+*.jar
+/target/
+/src/main/resources/
+*.idea
